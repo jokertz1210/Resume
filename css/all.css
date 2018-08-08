@@ -1,0 +1,272 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.wrap {
+  max-width: 960px;
+  height: 1380px;
+  margin: 20px auto;
+  border: 1px solid #000000;
+  -webkit-box-shadow: 2px 2px 10px black;
+          box-shadow: 2px 2px 10px black;
+}
+
+.header {
+  width: 100%;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 40px 0 50px 0;
+}
+
+.header .header-img {
+  width: 20%;
+  float: left;
+  margin-left: 120px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.header .header-img img {
+  max-width: 180px;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .header .header-img {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: -80px;
+  }
+  .header .header-img img {
+    margin: 0 auto;
+    max-width: 200px;
+  }
+}
+
+.header .header-list {
+  float: left;
+}
+
+.header .header-list ul {
+  margin-top: 100px;
+}
+
+.header .header-list ul li {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .header-list {
+    float: none;
+    width: 100%;
+    margin-left: 20px;
+  }
+}
+
+.skills {
+  background: -webkit-gradient(linear, left top, left bottom, from(#1d1b1b), to(#202020));
+  background: linear-gradient(#1d1b1b, #202020);
+  width: 100%;
+  height: 800px;
+}
+
+.skills h2 {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  padding: 50px 0 50px 0;
+  color: rebeccapurple;
+}
+
+@media (max-width: 768px) {
+  .skills {
+    width: 100%;
+    height: auto;
+  }
+  .skills h2 {
+    padding-bottom: 0px;
+  }
+}
+
+.skills-img {
+  width: 30%;
+  float: left;
+  margin-left: 100px;
+  margin-right: 80px;
+}
+
+.skills-img img {
+  max-width: 100%;
+  margin: 50px 0 30px 0;
+}
+
+.skills-img p {
+  color: #ffffff;
+  line-height: 30px;
+  margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+  .skills-img {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+  }
+  .skills-img img {
+    margin: 0 auto;
+    display: block;
+  }
+  .skills-img p {
+    margin: 0 0 20px 50px;
+  }
+}
+
+.skills-wrap {
+  float: left;
+  width: 45%;
+}
+
+.skills-list {
+  width: 90%;
+}
+
+.skills-list span {
+  margin-left: 20px;
+}
+
+.skills-list .skills-list {
+  float: none;
+  width: 100%;
+  display: block;
+}
+
+.skills-list .skills-title {
+  color: #ffffff;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.skills-list .skills-level {
+  background: gray;
+  width: 100%;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.skills-list .skills-level p {
+  background: rebeccapurple;
+  width: 20%;
+  height: 30px;
+  -webkit-transition: width 3s ease;
+  transition: width 3s ease;
+  color: #ffffff;
+  text-align: center;
+  line-height: 28px;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .skills-wrap {
+    float: none;
+    width: 100%;
+    margin-left: 30px;
+    padding-bottom: 20px;
+  }
+}
+
+.footer h2 {
+  font-size: 28px;
+  margin: 10px 0 10px 30px;
+}
+
+.footer .footer-contact {
+  float: left;
+  margin-bottom: 18px;
+}
+
+.footer .footer-contact p {
+  margin-left: 30px;
+  line-height: 20px;
+}
+
+.footer .footer-logo {
+  float: right;
+  margin-right: 30px;
+}
+
+.footer .footer-logo p {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.footer .copyright {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .wrap {
+    height: auto;
+  }
+}
+/*# sourceMappingURL=all.css.map */
