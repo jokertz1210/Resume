@@ -267,6 +267,8 @@ table {
 @media (max-width: 768px) {
   .wrap {
     height: auto;
+    margin-right: 10px;
+    margin-left: 10px;
   }
 }
 /*# sourceMappingURL=all.css.map */
