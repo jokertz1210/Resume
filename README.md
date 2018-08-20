@@ -15,8 +15,8 @@
 * 使用Javescript 為網頁搭建客制化的互動效果
 
 ### Bootstrap/RWD
-* 使用Bootstrap快速建立頁面
-* RWD的@media設定下自適應各種版型
+* Bootstrap快速建立頁面
+* CSS @media語法下自適應各種版型
 
 ### Git/GitHub
 
