@@ -12,7 +12,7 @@
 
 ### jQuery/Javescript
 * 尋找適合的jQuery套件 快速為網頁+上互動效果
-* 使用Javescript 為網頁搭建客制化的互動效果
+* Javescript 為網頁搭建客制化的互動效果
 
 ### Bootstrap/RWD
 * Bootstrap快速建立頁面
