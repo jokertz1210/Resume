@@ -30,20 +30,20 @@
   - jquery scroll事件 滾動加入動畫效果
   - light Box 插件製作燈箱效果
   - RWD 自適應手機板型
-<br/>
+
 - <a href="https://jokertz1210.github.io/BMI/">BMI計算</a>
   - 利用瀏覽器暫存Local Storage 暫存
   - Javescript 跑for迴圈抓取動態數值 並接字串顯示在網頁上
   - RWD 自適應手機板型
-<br/>
+
 - <a href="https://jokertz1210.github.io/RWD-website/">手刻商務網站</a>
   - Nivo Slider 插件製作輪播特效
   - RWD 自適應手機板型
-<br/>
+
 - <a href="https://jokertz1210.github.io/LandingPage/">形象首頁版型</a>
   - Bootstrap 框架設計版型
   - Bootstrap 快速建立具有RWD網頁
-<br/>
+
 ## 自己紹介
 
 * 創意、學習力、觀察力
