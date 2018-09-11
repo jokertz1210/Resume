@@ -5,7 +5,7 @@
 * メールアドレス : jokertz1210@gmail.com
 <br/>
 
-## スキル
+## スキル/Skill
 
 ### HTML/CSS/SASS
 * 利用div浮動以及定位排版  SASS給予框架樣式 手刻網頁版面
@@ -43,7 +43,7 @@
 - <a href="https://jokertz1210.github.io/LandingPage/">形象首頁版型</a>
   - Bootstrap 框架設計版型
   - Bootstrap 快速建立具有RWD網頁
-
+<br/>
 ## 自己紹介
 
 * 創意、學習力、觀察力
