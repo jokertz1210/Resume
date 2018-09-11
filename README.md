@@ -1,11 +1,11 @@
 # 劉紀祥(Joker)
 
-* 名前: Joker
-* アドレス : 台北市文山區
-* メールアドレス : jokertz1210@gmail.com
+* 名前 / Name: Joker
+* アドレス / Address: 台北市文山區
+* メールアドレス / Email : jokertz1210@gmail.com
 <br/>
 
-## スキル/Skill
+## スキル / Skill
 
 ### HTML/CSS/SASS
 * 利用div浮動以及定位排版  SASS給予框架樣式 手刻網頁版面
