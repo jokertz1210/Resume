@@ -40,7 +40,6 @@
   - Nivo Slider 插件製作輪播特效
   - RWD 自適應手機板型
 <br/>
-
 - <a href="https://jokertz1210.github.io/LandingPage/">形象首頁版型</a>
   - Bootstrap 框架設計版型
   - Bootstrap 快速建立具有RWD網頁
