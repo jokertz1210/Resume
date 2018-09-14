@@ -1,16 +1,16 @@
 # 劉紀祥(Joker)
 
-* 名前 / Name: Joker
-* アドレス / Address: 台北市文山區
-* メールアドレス / Email : jokertz1210@gmail.com
+* Name: Joker
+* Address: 台北市文山區
+* Email : jokertz1210@gmail.com
 <br/>
 
-## スキル / Skill
+## Skill
 
 ### HTML/CSS/SASS
 * 利用div浮動以及定位排版  SASS給予框架樣式 手刻網頁版面
 
-### jQuery/Javescript
+### jQuery/JavaScript
 * 尋找適合的jQuery套件 快速為網頁+上互動效果
 * Javescript 為網頁搭建客制化的互動效果
 * 串接開放平台的API資料
@@ -45,7 +45,7 @@
   - Bootstrap 快速建立具有RWD網頁
 <br/>
 
-## 自己紹介
+## 關於我
 
 * 創意、學習力、觀察力
 * 喜歡日本文化，2017年去日本打工度假一年。
