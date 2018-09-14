@@ -5,7 +5,7 @@
 * Email : jokertz1210@gmail.com
 <br/>
 
-## Skill
+## Skills
 
 ### HTML/CSS/SASS
 * 利用div浮動以及定位排版  SASS給予框架樣式 手刻網頁版面
