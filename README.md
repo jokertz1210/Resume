@@ -12,7 +12,7 @@
 
 ### jQuery / JavaScript
 * 尋找適合的jQuery套件 快速為網頁+上互動效果
-* Javascript 為網頁搭建客制化的互動效果
+* JavaScript 為網頁搭建客制化的互動效果
 * 串接開放平台的 API 資料
 
 ### Bootstrap / RWD
