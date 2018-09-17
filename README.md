@@ -27,7 +27,7 @@
 
 ## 作品集
 - <a href="https://jokertz1210.github.io/Resume/">個人履歷</a>
-  - jquery scroll 事件 滾動加入動畫效果
+  - jQuery scroll 事件 滾動加入動畫效果
   - light Box 插件製作燈箱效果
   - RWD 自適應手機板型
 
