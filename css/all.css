@@ -123,8 +123,12 @@ table {
 }
 
 .skills {
-  background: -webkit-gradient(linear, left top, left bottom, from(#1d1b1b), to(#202020));
-  background: linear-gradient(#1d1b1b, #202020);
+  /* background: -webkit-gradient(linear, left top, left bottom, from(#1d1b1b), to(#202020));
+  background: linear-gradient(#1d1b1b, #202020); */
+  background-image: url(../images/背景-7.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
   width: 100%;
   height: 800px;
 }
