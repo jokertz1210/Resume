@@ -1,4 +1,4 @@
-# 劉紀祥 / Joker
+# 劉紀祥 (Joker)
 
 * Name: Joker
 * Address: 台北市文山區
