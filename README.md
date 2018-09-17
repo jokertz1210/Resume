@@ -7,7 +7,7 @@
 
 ## Skills
 
-### HTML / CSS / SASS
+### HTML / CSS / Sass
 * 利用 div 浮動以及定位排版  Sass 給予框架樣式 手刻網頁版面
 
 ### jQuery / JavaScript
