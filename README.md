@@ -10,7 +10,7 @@
 ### HTML / CSS / Sass
 * 利用 div 浮動以及定位排版  Sass 給予框架樣式 手刻網頁版面
 
-### jQuery / JavaScript / Vue.js
+### jQuery / JavaScript / Vue.js / JSON
 * 尋找適合的jQuery套件 快速為網頁+上互動效果
 * JavaScript 為網頁搭建客制化的互動效果
 * 串接開放平台的 API 資料
