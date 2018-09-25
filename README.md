@@ -44,10 +44,10 @@
   - Bootstrap 框架設計版型
   - Bootstrap 快速建立具有 RWD 網頁
   
-  - <a href="https://jokertz1210.github.io/Kaohsiung-Travel/">高雄旅遊資訊網</a>
-  - Bootstrap 框架設計版型
-  - VueJS 快速動態載入資料
-  - AJAX 串接政府API並顯示在網頁上
+- <a href="https://jokertz1210.github.io/Kaohsiung-Travel/">高雄旅遊資訊網</a>
+- Bootstrap 框架設計版型
+- VueJS 快速動態載入資料
+- AJAX 串接政府API並顯示在網頁上
 <br/>
 
 ## 關於我
