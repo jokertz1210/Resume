@@ -10,7 +10,7 @@
 ### HTML / CSS / Sass
 * 利用 div 浮動以及定位排版  Sass 給予框架樣式 手刻網頁版面
 
-### jQuery / JavaScript
+### jQuery / JavaScript / Vue.js
 * 尋找適合的jQuery套件 快速為網頁+上互動效果
 * JavaScript 為網頁搭建客制化的互動效果
 * 串接開放平台的 API 資料
@@ -46,7 +46,7 @@
   
 - <a href="https://jokertz1210.github.io/Kaohsiung-Travel/">高雄旅遊資訊網</a>
   - Bootstrap 框架設計版型
-  - VueJS 快速動態載入資料
+  - Vue.js 快速動態載入資料
   - AJAX 串接政府API並顯示在網頁上
 <br/>
 
